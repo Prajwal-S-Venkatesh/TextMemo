@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="sat_23rd_jun_2023">Sat 23rd, Jun 2023</string>
+    <string name="title_activity_about_notes">AboutNotes</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="file_name">notesJsonFile</string>
+    <string name="no_file">No Saved Notes Found!</string>
+    <string name="no_notes_found_click_on_icon_on_the_top_right_to_create_a_new_note">No notes found, Click on (+) icon on the top right to create a new note!</string>
+    <string name="some_contetnt_about_the_notes_and_this_is_a_very_good_content">Some contetnt about the notes and this is a very good content</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="_2023_prajwal_somendyapanahalli_venkateshmurthy">© 2023, Prajwal Somendyapanahalli Venkateshmurthy</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
